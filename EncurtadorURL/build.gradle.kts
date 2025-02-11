@@ -33,7 +33,7 @@ application {
     mainClass = "io.github.jotamath.ApplicationKt"
 }
 java {
-    sourceCompatibility = JavaVersion.toVersion("17")
+    sourceCompatibility = JavaVersion.toVersion("21")
 }
 
 
